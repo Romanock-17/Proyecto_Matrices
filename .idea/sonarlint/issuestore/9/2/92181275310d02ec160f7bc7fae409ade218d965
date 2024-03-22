@@ -1,0 +1,13 @@
+
+o
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(âŞöÅ8øó´ä1
+X
+java:S18547";Remove this useless assignment to local variable "columna".(¯ã½©8øó´ä1
+U
+java:S18546"8Remove this useless assignment to local variable "fila".(¾Ç¥ 8øó´ä1
+F
+java:S14816")Remove this unused "fila" local variable.(¾Ç¥ 8øó´ä1
+I
+java:S14817",Remove this unused "columna" local variable.(¯ã½©8øó´ä1
+K
+java:S1481:")Remove this unused "suma" local variable.(é«Ğüşÿÿÿÿ8øó´ä1

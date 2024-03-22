@@ -1,0 +1,28 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÁõœşÿÿÿÿ8°—¯’æ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ñ¢ıÿÿÿÿ8°—¯’æ1
+l	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å‰p8°—¯’æ1
+m	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íôß8°—¯’æ1
+r	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ñ¢ıÿÿÿÿ8°—¯’æ1
+m	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ëß8°—¯’æ1
+m	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÁï½8°—¯’æ1
+r	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¸‡ßüÿÿÿÿ8°—¯’æ1
+m	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í”ä´8°—¯’æ1
+r	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢•°§üÿÿÿÿ8°—¯’æ1
+l	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ì”8°—¯’æ1
+Y
+java:S2589Q"7Remove this expression which always evaluates to "true"(æìÎ¼üÿÿÿÿ8à—¯’æ1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÁõœşÿÿÿÿ8à—¯’æ1
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ì¡n8à—¯’æ1
+i	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å‰p8à—¯’æ1
+o	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ñÇ¼úÿÿÿÿ8è—¯’æ1
+<
+java:S16593"Declare "i" on a separate line.(íôß8è—¯’æ1
+j	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªíœÿ8è—¯’æ1
+j	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”±š8è—¯’æ1
+E
+java:S1068"(Remove this unused "dato" private field.(†ßŒñ8ôˆ•—æ1
+E
+java:S1068"(Remove this unused "fila" private field.(óÕ¢¾8å×•—æ1
+M
+java:S1068"+Remove this unused "columna" private field.(‘›İşÿÿÿÿ8å×•—æ1

@@ -1,0 +1,56 @@
+
+k
+java:S1192%"IDefine a constant instead of duplicating this literal "7. Salir" 3 times.(—‡èÈÿÿÿÿÿ8ìÍƒ—æ1
+s
+java:S1192#"QDefine a constant instead of duplicating this literal "5. Eliminar dato" 3 times.(û§…ÿÿÿÿÿ8ìÍƒ—æ1
+r
+java:S1192"UDefine a constant instead of duplicating this literal "Ingrese una opcion: " 3 times.(ûÏÕ8ìÍƒ—æ1
+n
+java:S1192$"QDefine a constant instead of duplicating this literal "6. Ingresar dato" 3 times.(çĞòİ8ìÍƒ—æ1
+|
+java:S1192 "ZDefine a constant instead of duplicating this literal "2. Sumar filas y columnas" 3 times.(ŸÑ˜Óşÿÿÿÿ8ìÍƒ—æ1
+l
+java:S1192!"ODefine a constant instead of duplicating this literal "3. Multiplicar" 3 times.(ÿòÓ˜8ìÍƒ—æ1
+r
+java:S1192""UDefine a constant instead of duplicating this literal "4. Suma de tripletas" 3 times.(õŸñƒ8ìÍƒ—æ1
+?
+java:S1643­"Use a StringBuilder instead.(ù‡Ã”ùÿÿÿÿ8îÍƒ—æ1
+?
+java:S1643È"Use a StringBuilder instead.(ù‡Ã”ùÿÿÿÿ8îÍƒ—æ1
+7
+java:S1220""Move this file to a named package.8ïÍƒ—æ1
+j
+java:S2095Â"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Âõ–8Òé„—æ1
+j
+java:S2095¨"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(´ÓñÊ8Òé„—æ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(Çµí‘8×Óƒ—æ1
+W
+java:S1854":Remove this useless assignment to local variable "forma2".(¨¦–”8ÏÍ„—æ1
+H
+java:S1481"+Remove this unused "forma2" local variable.(¨¦–”8ÓÍ„—æ1
+C	java:S131""Add a default case to this switch.(Ëë¡Ûúÿÿÿÿ8çé„—æ1
+>	java:S131(""Add a default case to this switch.(ÚÎÁ8êé„—æ1
+I
+java:S1197*",Move the array designators [][] to the type.(ñ™º‰8íé„—æ1
+>	java:S131V""Add a default case to this switch.(Æî‡×8íé„—æ1
+I
+java:S1197X",Move the array designators [][] to the type.(ñ™º‰8«Ò‡—æ1
+l
+java:S1871"IThis case's code block is the same as the block for the case on line 132.(ÌÊëÎüÿÿÿÿ8ôé„—æ1
+l
+java:S1871‡"IThis case's code block is the same as the block for the case on line 132.(úâúÿÿÿÿ8óé„—æ1
+l
+java:S1871Š"IThis case's code block is the same as the block for the case on line 132.(‰ÆÄÎşÿÿÿÿ8óé„—æ1
+l
+java:S1871"IThis case's code block is the same as the block for the case on line 132.(µ»ïşıÿÿÿÿ8ôé„—æ1
+f
+java:S1871“"IThis case's code block is the same as the block for the case on line 132.(û¿48óé„—æ1
+?	java:S131ƒ""Add a default case to this switch.(ÿ§ú8õé„—æ1
+p	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éËµüÿÿÿÿ8öé„—æ1
+u
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(éËµüÿÿÿÿ8øé„—æ1
+D
+java:S1168Ş"&Return an empty array instead of null.(¥¹ï8ê„—æ1
+ä
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 124 to 64, Complexity from 29 to 14, Nesting Level from 6 to 2, Number of Variables from 17 to 6.(Çµí‘8ğÓƒ—æ1
